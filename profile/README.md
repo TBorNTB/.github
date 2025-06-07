@@ -58,8 +58,8 @@
 
 ##  사이트 주소
 
-📎 공식 배포 주소: [https://ssg-archive.sejong.ac.kr](https://ssg-archive.sejong.ac.kr)  
-💻 테스트 주소: [https://dev.ssg-archive.sejong.ac.kr](https://dev.ssg-archive.sejong.ac.kr)
+ 공식 배포 주소: 
+ 테스트 주소:
 
 ---
 
