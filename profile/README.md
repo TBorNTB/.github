@@ -73,8 +73,8 @@
 
 ##  참고 자료
 
-- [보안 스터디 아카이브 Notion](https://notion.so/your-link)
-- [SSG 동아리 소개 페이지](https://sejong.ac.kr/ssg)
+- [보안 스터디 아카이브 Notion]
+- [SSG 동아리 소개 페이지]
 
 ---
 
