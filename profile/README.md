@@ -52,6 +52,9 @@
 |------|--------|------|------|
 | 팀원 | <img src="https://github.com/Sigmaith.png" width="80" /> | [정수미](https://github.com/Sigmaith) | 백엔드 |
 | 팀원 | <img src="https://github.com/PlusUltraCode.png" width="80" /> | [이동호](https://github.com/PlusUltraCode) | 백엔드 |
+| 팀원 | <img src="https://avatars.githubusercontent.com/u/101076058?v=4" width="80" /> | [이해건](https://github.com/SISUinSea) | 백엔드 |
+| 팀원 | <img src="https://avatars.githubusercontent.com/u/121525026?v=4" width="80" /> | [최하은](https://github.com/haeun320) | 프론트엔드 |
+| 팀원 | <img src="https://avatars.githubusercontent.com/u/77979028?v=4" width="80" /> | [김법균](https://github.com/bk-git-hub) | 프론트엔드 |
 
 
 ---
